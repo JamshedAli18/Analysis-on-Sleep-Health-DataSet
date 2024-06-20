@@ -1,5 +1,4 @@
-
-Data Analysis Summary
+# Data Analysis Summary
 
 1. Gender Distribution: We analyze the distribution of genders in the dataset to understand the gender balance.
 
@@ -15,4 +14,4 @@ Data Analysis Summary
 
 7. Average Sleep Duration, Stress Level, and Heart Rate by Age Group: By calculating the average sleep duration, stress level, and heart rate for each age group, we gain insights into how these factors vary with age.
 
-These analyses provide valuable insights into various demographic groups' behaviors and characteristics, which can inform healthcare, lifestyle, and occupational strategies.
+# These analyses provide valuable insights into various demographic groups' behaviors and characteristics, which can inform healthcare, lifestyle, and occupational strategies.
